@@ -65,6 +65,15 @@ bib_search: true
 # Dimensions
 max_width: 930px
 
+
+socials:
+  email: gaa@ufpi.edu.br
+  orcid: 0000-0002-8203-0638
+  scholar_userid: O2UOvrkAAAAJ
+  github: gavelino
+  lattes: 9924454852039192
+  dblp: 167/4627
+
 # -----------------------------------------------------------------------------
 # Open Graph & Schema.org
 # -----------------------------------------------------------------------------
