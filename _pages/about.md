@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Professor at <a href="https://www.ufmg.br/" target="_blank">UFMG</a>, Department of Computer Science
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Department of Computer Science</p>
+    <p>Universidade Federal de Minas Gerais (UFMG)</p>
+    <p>Belo Horizonte, MG, Brazil</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +27,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Professor and Researcher in the [Department of Computer Science](https://dcc.ufmg.br/) at [Universidade Federal de Minas Gerais (UFMG)](https://www.ufmg.br/), Brazil. I hold a PhD in Computer Science from UFMG.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests lie at the intersection of **Software Engineering** and **Empirical Methods**, with a particular focus on:
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+- **Code Authorship Analysis** — understanding who writes code, how authorship evolves, and what it reveals about software projects
+- **Open Source Software (OSS)** — mining and analyzing large-scale OSS repositories such as the Linux Kernel
+- **Empirical Software Engineering** — applying rigorous empirical methods to study software development practices and processes
+
+I teach courses in **Object-Oriented Programming (POO)** and related Computer Science subjects at UFMG, where I also advise graduate and undergraduate students in research projects on software engineering topics.
+
+If you are interested in collaborating or have questions about my research, please feel free to get in touch!
