@@ -2,33 +2,40 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Professor, Federal University of Piauí (UFPI)
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Department of Computing</p>
+    <p>Federal University of Piauí (UFPI)</p>
+    <p>Teresina, Brazil</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+selected_papers: true
+social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a professor in the Department of Computing at the Federal University of Piauí (UFPI), Brazil. My research focuses on **Software Engineering, Artificial Intelligence, and intelligent software systems**, with particular interest in how data and AI techniques can support the development, evolution, and sustainability of large software systems.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My work spans several areas of empirical software engineering, including **mining software repositories, knowledge concentration in software projects, developer productivity, and socio-technical aspects of software development**. 
+<!-- One of my best-known research contributions investigates the concept of **Truck Factor**, which estimates the risk of knowledge loss in software systems when key developers leave a project. -->
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+More recently, my research has expanded to the intersection of **Artificial Intelligence and Software Engineering**, including the impact of **generative AI on software development practices** and the engineering challenges involved in building reliable AI-based systems.
+
+I received my **Ph.D. in Computer Science from the Federal University of Minas Gerais (UFMG)**, with a research period at **Eindhoven University of Technology (TU/e)**. I also hold a **Master’s degree from the Federal University of Pernambuco (UFPE)** and a **Bachelor’s degree in Computer Science from the Federal University of Piauí (UFPI)**.
+
+Beyond academic research, I am actively involved in initiatives connecting **AI research, infrastructure, and innovation**, including projects focused on computational infrastructure for AI and data-driven solutions for public-sector challenges.
+
+My interests include:
+
+- Software Engineering
+- Mining Software Repositories
+- Developer Productivity and Knowledge Distribution
+- Empirical Software Engineering
+- Artificial Intelligence for Software Engineering
+- Generative AI in Software Development
+- AI Infrastructure for Research
+
+I welcome opportunities for **research collaboration, student supervision, and interdisciplinary projects involving AI and software engineering**.
