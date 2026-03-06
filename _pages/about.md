@@ -12,6 +12,7 @@ profile:
     <p>Department of Computing</p>
     <p>Federal University of Piauí (UFPI)</p>
     <p>Teresina, Brazil</p>
+    <p> mail: gaa@ufpi.edu.br <p> 
 
 selected_papers: true
 social: true
