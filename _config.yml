@@ -8,14 +8,8 @@ middle_name: Amaral
 last_name: Avelino
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
-description: > Personal academic website of Guilherme Avelino, professor at the Federal
-  University of Piauí (UFPI). His work focuses on Software Engineering,
-  Artificial Intelligence, and intelligent software systems, with research
-  spanning mining software repositories, knowledge concentration in software
-  projects, developer productivity, and the impact of generative AI on
-  software development. He also leads research and innovation initiatives
-  on AI infrastructure, data-driven systems, and public-sector digital
-  transformation.
+description: > # the ">" symbol means to ignore newlines until "footer_text:"
+  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.  
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
