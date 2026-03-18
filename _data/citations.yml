@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-11'
+  last_updated: '2026-03-18'
 papers:
   O2UOvrkAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -42,7 +42,7 @@ papers:
     title: Automatic detection of usability smells in web applications running in mobile devices
     year: '2020'
   O2UOvrkAAAAJ:9yKSN-GCB0IC:
-    citations: 194
+    citations: 195
     title: A novel approach for estimating truck factors
     year: '2016'
   O2UOvrkAAAAJ:IWHjjKOFINEC:
@@ -166,7 +166,7 @@ papers:
     title: 'Assessing the Role of GPT-4o in Software Engineering Learning: An Experience Report'
     year: '2025'
   O2UOvrkAAAAJ:qjMakFHDy7sC:
-    citations: 149
+    citations: 151
     title: 'On the abandonment and survival of open source projects: An empirical investigation'
     year: '2019'
   O2UOvrkAAAAJ:qxL8FJ1GzNcC:
@@ -186,7 +186,7 @@ papers:
     title: What is the Truck Factor of popular GitHub applications? A first assessment
     year: '2017'
   O2UOvrkAAAAJ:ufrVoPGSRksC:
-    citations: 1
+    citations: 2
     title: Automatic Detection of Usability Smells in Web Applications running in mobile devices
     year: '2020'
   O2UOvrkAAAAJ:zYLM7Y9cAGgC:
