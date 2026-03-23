@@ -13,7 +13,6 @@
 #   title: Custom Social
 #   url: https://www.alberteinstein.com/
 
-
 email: gaa@ufpi.edu.br
 orcid_id: 0000-0002-8203-0638
 scholar_userid: O2UOvrkAAAAJ
@@ -21,4 +20,4 @@ lattes_id: 9924454852039192
 github_username: gavelino
 dblp_url: https://dblp.org/pid/167/4627.html
 work_url: https://www.dc.ufpi.br
-rss_icon: true
+# rss_icon: true
