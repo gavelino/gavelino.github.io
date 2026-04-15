@@ -17,12 +17,12 @@ profile:
 selected_papers: true
 social: true
 awards:
-  - title: International Conference on Program Comprehension Most Influential Paper Award (ICPC MIP Award)
+  - title: Most Influential Paper Award on International Conference on Program Comprehension 
     date: 2026
-    awarder: ICPC 2026
+    awarder: ICPC MIP 2026
     summary: >
-      Awarded for the paper "A Novel Approach for Estimating Truck Factors",
-      authored by G. Avelino, L. Passos, A. Hora, and M. T.
+      Awarded for the paper ["A Novel Approach for Estimating Truck Factors"](https://doi.org/10.1109/ICPC.2016.7503718),
+      authored by Guilherme Avelino, Leonardo Passos, Andre Hora and Marco Tulio Valente.
 ---
 
 I am a professor in the Department of Computing at the Federal University of Piauí (UFPI), Brazil. My research focuses on **Software Engineering, Artificial Intelligence, and intelligent software systems**, with particular interest in how data and AI techniques can support the development, evolution, and sustainability of large software systems.
