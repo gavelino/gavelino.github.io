@@ -40,6 +40,15 @@ layout: default
 
     <div class="clearfix">{{ content }}</div>
 
+    <!-- Awards -->
+    {% if page.awards %}
+      <h2>awards</h2>
+      <div class="cv about-awards">
+        {% assign entries = page.awards %}
+        {% include cv/awards.liquid %}
+      </div>
+    {% endif %}
+
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
       <h2>

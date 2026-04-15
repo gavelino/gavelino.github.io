@@ -111,6 +111,23 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+.about-awards {
+  margin-bottom: 2rem;
+
+  .list-group-item {
+    background-color: transparent;
+    border-color: var(--global-divider-color);
+    color: var(--global-text-color);
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .badge {
+    color: var(--global-card-bg-color) !important;
+    background-color: var(--global-theme-color) !important;
+  }
+}
+
 .table-cv-map {
   background-color: transparent;
   border: none;
