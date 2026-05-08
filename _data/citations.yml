@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-18'
+  last_updated: '2026-05-08'
 papers:
   O2UOvrkAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -21,8 +21,12 @@ papers:
     citations: 2
     title: An Evaluation of the Impact of Code Generation Tools on Software Development
     year: '2025'
-  O2UOvrkAAAAJ:4TOpqqG69KYC:
+  O2UOvrkAAAAJ:4JMBOYKVnBMC:
     citations: 1
+    title: 'Scalper major: A computational solution for automated trading in high volatility environments'
+    year: '2026'
+  O2UOvrkAAAAJ:4TOpqqG69KYC:
+    citations: 2
     title: Evaluation of low code and no code platforms as a strategy to increase productivity in software development
     year: '2024'
   O2UOvrkAAAAJ:5nxA0vEk-isC:
@@ -34,7 +38,7 @@ papers:
     title: 'Highlight Test Code: Visualizing the Co-Evolution of Test and Production Code in Software Repositories'
     year: '2025'
   O2UOvrkAAAAJ:8k81kl-MbHgC:
-    citations: 22
+    citations: 29
     title: 'Low-code and no-code technologies adoption: A gray literature review'
     year: '2023'
   O2UOvrkAAAAJ:9ZlFYXVOiuMC:
@@ -42,7 +46,7 @@ papers:
     title: Automatic detection of usability smells in web applications running in mobile devices
     year: '2020'
   O2UOvrkAAAAJ:9yKSN-GCB0IC:
-    citations: 195
+    citations: 202
     title: A novel approach for estimating truck factors
     year: '2016'
   O2UOvrkAAAAJ:IWHjjKOFINEC:
@@ -66,11 +70,11 @@ papers:
     title: 'The Impact of Generative AI on Code Expertise Models: An Exploratory Study'
     year: '2025'
   O2UOvrkAAAAJ:RHpTSmoSYBkC:
-    citations: 0
+    citations: 1
     title: 'Beyond Profit: An Analysis of Risk and Return Metrics in Automated Trading Systems'
     year: '2025'
   O2UOvrkAAAAJ:Se3iqnhoufwC:
-    citations: 14
+    citations: 15
     title: Identifying source code file experts
     year: '2022'
   O2UOvrkAAAAJ:Tyk-4Ss8FVUC:
@@ -102,15 +106,15 @@ papers:
     title: Identifying key developers in software projects using code authorship metrics
     year: '2018'
   O2UOvrkAAAAJ:YOwf2qJgpHMC:
-    citations: 5
+    citations: 6
     title: 'Code on demand: A comparative analysis of the efficiency understandability and self-correction capability of copilot chatgpt and gemini'
     year: '2024'
   O2UOvrkAAAAJ:YsMSGLbcyi4C:
-    citations: 20
+    citations: 21
     title: 'Who can maintain this code?: Assessing the effectiveness of repository-mining techniques for identifying software maintainers'
     year: '2018'
   O2UOvrkAAAAJ:ZeXyd9-uunAC:
-    citations: 0
+    citations: 1
     title: "Redu\xE7\xE3o da Subjetividade na Identifica\xE7\xE3o da Varia\xE7\xE3o do N\xEDvel de Valores de Ativos Financeiros"
     year: '2025'
   O2UOvrkAAAAJ:Zph67rFs4hoC:
@@ -130,19 +134,15 @@ papers:
     title: Assisting the Requirements Definition and Modeling of IoT applications through the ReqM4IoT tool
     year: '2024'
   O2UOvrkAAAAJ:aqlVkmm33-oC:
-    citations: 11
+    citations: 18
     title: "NoCodeGPT: A No\u2010Code Interface for Building Web Apps With Language Models"
     year: '2025'
-  O2UOvrkAAAAJ:d1gkVwhDpl0C:
-    citations: 0
-    title: Who Can Maintain this Code?
-    year: Unknown Year
   O2UOvrkAAAAJ:dhFuZR0502QC:
     citations: 0
     title: "Avaliando o Papel do GPT-4o na Aprendizagem de Engenharia de Software: Um Relato de Experi\xEAncia"
     year: '2025'
   O2UOvrkAAAAJ:eQOLeE2rZwMC:
-    citations: 28
+    citations: 30
     title: Measuring and analyzing code authorship in 1+ 118 open source projects
     year: '2019'
   O2UOvrkAAAAJ:hC7cP41nSMkC:
@@ -153,12 +153,16 @@ papers:
     citations: 1
     title: 'HealthyEnv: a tool to assist in health assessment of software repositories'
     year: '2022'
+  O2UOvrkAAAAJ:j3f4tGmQtD8C:
+    citations: 0
+    title: "SR-KIF: Uma Ferramenta para Identifica\xE7\xE3o da Varia\xE7\xE3o do N\xEDvel de Valores de Ativos Financeiros"
+    year: '2026'
   O2UOvrkAAAAJ:kNdYIx-mwKoC:
     citations: 1
     title: 'Knowledge Islands: Visualizing Developers Knowledge Concentration'
     year: '2024'
   O2UOvrkAAAAJ:mVmsd5A6BfQC:
-    citations: 2
+    citations: 3
     title: "Test Co\u2010Evolution in Software Projects: A Large\u2010Scale Empirical Study"
     year: '2025'
   O2UOvrkAAAAJ:qUcmZB5y_30C:
@@ -166,7 +170,7 @@ papers:
     title: 'Assessing the Role of GPT-4o in Software Engineering Learning: An Experience Report'
     year: '2025'
   O2UOvrkAAAAJ:qjMakFHDy7sC:
-    citations: 151
+    citations: 159
     title: 'On the abandonment and survival of open source projects: An empirical investigation'
     year: '2019'
   O2UOvrkAAAAJ:qxL8FJ1GzNcC:
@@ -190,6 +194,6 @@ papers:
     title: Automatic Detection of Usability Smells in Web Applications running in mobile devices
     year: '2020'
   O2UOvrkAAAAJ:zYLM7Y9cAGgC:
-    citations: 11
+    citations: 12
     title: A comparative study of algorithms for estimating truck factor
     year: '2016'
