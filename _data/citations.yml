@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-08'
+  last_updated: '2026-07-06'
 papers:
   O2UOvrkAAAAJ:-f6ydRqryjwC:
     citations: 1
@@ -38,7 +38,7 @@ papers:
     title: 'Highlight Test Code: Visualizing the Co-Evolution of Test and Production Code in Software Repositories'
     year: '2025'
   O2UOvrkAAAAJ:8k81kl-MbHgC:
-    citations: 29
+    citations: 30
     title: 'Low-code and no-code technologies adoption: A gray literature review'
     year: '2023'
   O2UOvrkAAAAJ:9ZlFYXVOiuMC:
@@ -46,7 +46,7 @@ papers:
     title: Automatic detection of usability smells in web applications running in mobile devices
     year: '2020'
   O2UOvrkAAAAJ:9yKSN-GCB0IC:
-    citations: 205
+    citations: 211
     title: A novel approach for estimating truck factors
     year: '2016'
   O2UOvrkAAAAJ:IWHjjKOFINEC:
@@ -62,7 +62,7 @@ papers:
     title: "DataCoin: Dataset Sazonal para Estrat\xE9gias Quantitativas com Bitcoin"
     year: '2025'
   O2UOvrkAAAAJ:M3ejUd6NZC8C:
-    citations: 1
+    citations: 2
     title: "Ia generativa na educa\xE7\xE3o: Personalizando hist\xF3rias para facilitar o aprendizado de leitura em crian\xE7as"
     year: '2024'
   O2UOvrkAAAAJ:QIV2ME_5wuYC:
@@ -134,7 +134,7 @@ papers:
     title: Assisting the Requirements Definition and Modeling of IoT applications through the ReqM4IoT tool
     year: '2024'
   O2UOvrkAAAAJ:aqlVkmm33-oC:
-    citations: 18
+    citations: 20
     title: "NoCodeGPT: A No\u2010Code Interface for Building Web Apps With Language Models"
     year: '2025'
   O2UOvrkAAAAJ:dhFuZR0502QC:
@@ -146,7 +146,7 @@ papers:
     title: Measuring and analyzing code authorship in 1+ 118 open source projects
     year: '2019'
   O2UOvrkAAAAJ:hC7cP41nSMkC:
-    citations: 0
+    citations: 1
     title: 'Assessing the Use of a Code Generation Assistant in Professional Software Development: An Experience Report'
     year: '2025'
   O2UOvrkAAAAJ:hqOjcs7Dif8C:
@@ -162,7 +162,7 @@ papers:
     title: 'Knowledge Islands: Visualizing Developers Knowledge Concentration'
     year: '2024'
   O2UOvrkAAAAJ:mVmsd5A6BfQC:
-    citations: 5
+    citations: 6
     title: "Test Co\u2010Evolution in Software Projects: A Large\u2010Scale Empirical Study"
     year: '2025'
   O2UOvrkAAAAJ:qUcmZB5y_30C:
@@ -170,7 +170,7 @@ papers:
     title: 'Assessing the Role of GPT-4o in Software Engineering Learning: An Experience Report'
     year: '2025'
   O2UOvrkAAAAJ:qjMakFHDy7sC:
-    citations: 161
+    citations: 170
     title: 'On the abandonment and survival of open source projects: An empirical investigation'
     year: '2019'
   O2UOvrkAAAAJ:qxL8FJ1GzNcC:
@@ -178,7 +178,7 @@ papers:
     title: "Estudo de Colora\xE7ao de Grafos Aplicado ao Problema de Aloca\xE7ao de Hor\xE1rios: Uma Solu\xE7ao Focada no Aluno"
     year: '2024'
   O2UOvrkAAAAJ:roLk4NBRz8UC:
-    citations: 3
+    citations: 4
     title: "Uma an\xE1lise da co-evolu\xE7\xE3o de teste em projetos de software no GitHub"
     year: '2021'
   O2UOvrkAAAAJ:u-x6o8ySG0sC:
