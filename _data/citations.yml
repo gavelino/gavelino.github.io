@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-06'
+  last_updated: '2026-07-17'
 papers:
   O2UOvrkAAAAJ:-f6ydRqryjwC:
     citations: 1
@@ -38,7 +38,7 @@ papers:
     title: 'Highlight Test Code: Visualizing the Co-Evolution of Test and Production Code in Software Repositories'
     year: '2025'
   O2UOvrkAAAAJ:8k81kl-MbHgC:
-    citations: 30
+    citations: 29
     title: 'Low-code and no-code technologies adoption: A gray literature review'
     year: '2023'
   O2UOvrkAAAAJ:9ZlFYXVOiuMC:
@@ -46,7 +46,7 @@ papers:
     title: Automatic detection of usability smells in web applications running in mobile devices
     year: '2020'
   O2UOvrkAAAAJ:9yKSN-GCB0IC:
-    citations: 211
+    citations: 213
     title: A novel approach for estimating truck factors
     year: '2016'
   O2UOvrkAAAAJ:IWHjjKOFINEC:
@@ -134,7 +134,7 @@ papers:
     title: Assisting the Requirements Definition and Modeling of IoT applications through the ReqM4IoT tool
     year: '2024'
   O2UOvrkAAAAJ:aqlVkmm33-oC:
-    citations: 20
+    citations: 19
     title: "NoCodeGPT: A No\u2010Code Interface for Building Web Apps With Language Models"
     year: '2025'
   O2UOvrkAAAAJ:dhFuZR0502QC:
@@ -142,7 +142,7 @@ papers:
     title: "Avaliando o Papel do GPT-4o na Aprendizagem de Engenharia de Software: Um Relato de Experi\xEAncia"
     year: '2025'
   O2UOvrkAAAAJ:eQOLeE2rZwMC:
-    citations: 30
+    citations: 29
     title: Measuring and analyzing code authorship in 1+ 118 open source projects
     year: '2019'
   O2UOvrkAAAAJ:hC7cP41nSMkC:
@@ -170,7 +170,7 @@ papers:
     title: 'Assessing the Role of GPT-4o in Software Engineering Learning: An Experience Report'
     year: '2025'
   O2UOvrkAAAAJ:qjMakFHDy7sC:
-    citations: 170
+    citations: 172
     title: 'On the abandonment and survival of open source projects: An empirical investigation'
     year: '2019'
   O2UOvrkAAAAJ:qxL8FJ1GzNcC:
