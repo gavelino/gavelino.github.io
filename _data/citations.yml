@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-07-20'
+  last_updated: '2026-08-05'
 papers:
   O2UOvrkAAAAJ:-f6ydRqryjwC:
     citations: 1
     title: Evaluating the Effectiveness and Cost-Efficiency of Large Language Models in Automated Unit Test Generation
     year: '2025'
   O2UOvrkAAAAJ:0EnyYjriUFMC:
-    citations: 0
+    citations: 1
     title: Assignment of bug reports to software developers using a multi-population evolutionary method
     year: '2022'
   O2UOvrkAAAAJ:2osOgNQ5qMEC:
-    citations: 19
+    citations: 20
     title: 'Assessing code authorship: The case of the Linux kernel'
     year: '2017'
   O2UOvrkAAAAJ:3fE2CSJIrl8C:
@@ -38,7 +38,7 @@ papers:
     title: 'Highlight Test Code: Visualizing the Co-Evolution of Test and Production Code in Software Repositories'
     year: '2025'
   O2UOvrkAAAAJ:8k81kl-MbHgC:
-    citations: 29
+    citations: 28
     title: 'Low-code and no-code technologies adoption: A gray literature review'
     year: '2023'
   O2UOvrkAAAAJ:9ZlFYXVOiuMC:
@@ -46,7 +46,7 @@ papers:
     title: Automatic detection of usability smells in web applications running in mobile devices
     year: '2020'
   O2UOvrkAAAAJ:9yKSN-GCB0IC:
-    citations: 214
+    citations: 216
     title: A novel approach for estimating truck factors
     year: '2016'
   O2UOvrkAAAAJ:IWHjjKOFINEC:
@@ -62,16 +62,16 @@ papers:
     title: "DataCoin: Dataset Sazonal para Estrat\xE9gias Quantitativas com Bitcoin"
     year: '2025'
   O2UOvrkAAAAJ:M3ejUd6NZC8C:
-    citations: 2
+    citations: 3
     title: "Ia generativa na educa\xE7\xE3o: Personalizando hist\xF3rias para facilitar o aprendizado de leitura em crian\xE7as"
     year: '2024'
   O2UOvrkAAAAJ:QIV2ME_5wuYC:
-    citations: 0
+    citations: 1
     title: 'The Impact of Generative AI on Code Expertise Models: An Exploratory Study'
     year: '2025'
   O2UOvrkAAAAJ:RHpTSmoSYBkC:
     citations: 1
-    title: 'Beyond Profit: An Analysis of Risk and Return Metrics in Automated Trading Systems'
+    title: 'Beyond profit: An analysis of risk and return metrics in automated trading systems'
     year: '2025'
   O2UOvrkAAAAJ:Se3iqnhoufwC:
     citations: 15
@@ -86,12 +86,12 @@ papers:
     title: An Automated Approach to Identify Source Code Files Affected by Architectural Technical Debt
     year: '2024'
   O2UOvrkAAAAJ:UebtZRa9Y70C:
-    citations: 2
+    citations: 3
     title: 'SysRepoAnalysis: A tool to analyze and identify critical areas of source code repositories'
     year: '2022'
   O2UOvrkAAAAJ:W7OEmFMy1HYC:
     citations: 1
-    title: "ArchGraph: Modulariza\xE7ao Autom\xE1tica de Sistemas Usando Clusteriza\xE7ao de Grafos de Depend\xEAncia"
+    title: "ArchGraph: Modulariza\xE7\xE3o autom\xE1tica de sistemas usando clusteriza\xE7\xE3o de grafos de depend\xEAncia"
     year: '2014'
   O2UOvrkAAAAJ:WF5omc3nYNoC:
     citations: 0
@@ -115,7 +115,7 @@ papers:
     year: '2018'
   O2UOvrkAAAAJ:ZeXyd9-uunAC:
     citations: 1
-    title: "Redu\xE7\xE3o da Subjetividade na Identifica\xE7\xE3o da Varia\xE7\xE3o do N\xEDvel de Valores de Ativos Financeiros"
+    title: "Redu\xE7\xE3o da subjetividade na identifica\xE7\xE3o da varia\xE7\xE3o do n\xEDvel de valores de ativos financeiros"
     year: '2025'
   O2UOvrkAAAAJ:Zph67rFs4hoC:
     citations: 0
@@ -134,7 +134,7 @@ papers:
     title: Assisting the Requirements Definition and Modeling of IoT applications through the ReqM4IoT tool
     year: '2024'
   O2UOvrkAAAAJ:aqlVkmm33-oC:
-    citations: 19
+    citations: 20
     title: "NoCodeGPT: A No\u2010Code Interface for Building Web Apps With Language Models"
     year: '2025'
   O2UOvrkAAAAJ:dhFuZR0502QC:
@@ -142,7 +142,7 @@ papers:
     title: "Avaliando o Papel do GPT-4o na Aprendizagem de Engenharia de Software: Um Relato de Experi\xEAncia"
     year: '2025'
   O2UOvrkAAAAJ:eQOLeE2rZwMC:
-    citations: 29
+    citations: 31
     title: Measuring and analyzing code authorship in 1+ 118 open source projects
     year: '2019'
   O2UOvrkAAAAJ:hC7cP41nSMkC:
@@ -170,7 +170,7 @@ papers:
     title: 'Assessing the Role of GPT-4o in Software Engineering Learning: An Experience Report'
     year: '2025'
   O2UOvrkAAAAJ:qjMakFHDy7sC:
-    citations: 172
+    citations: 173
     title: 'On the abandonment and survival of open source projects: An empirical investigation'
     year: '2019'
   O2UOvrkAAAAJ:qxL8FJ1GzNcC:
@@ -178,7 +178,7 @@ papers:
     title: "Estudo de Colora\xE7ao de Grafos Aplicado ao Problema de Aloca\xE7ao de Hor\xE1rios: Uma Solu\xE7ao Focada no Aluno"
     year: '2024'
   O2UOvrkAAAAJ:roLk4NBRz8UC:
-    citations: 4
+    citations: 3
     title: "Uma an\xE1lise da co-evolu\xE7\xE3o de teste em projetos de software no GitHub"
     year: '2021'
   O2UOvrkAAAAJ:u-x6o8ySG0sC:
@@ -186,11 +186,11 @@ papers:
     title: "Integra\xE7\xE3o de linguagens funcionais \xE0 plataforma. NET utilizando o framework Phoenix"
     year: '2008'
   O2UOvrkAAAAJ:u5HHmVD_uO8C:
-    citations: 21
+    citations: 22
     title: What is the Truck Factor of popular GitHub applications? A first assessment
     year: '2017'
   O2UOvrkAAAAJ:ufrVoPGSRksC:
-    citations: 2
+    citations: 6
     title: Automatic Detection of Usability Smells in Web Applications running in mobile devices
     year: '2020'
   O2UOvrkAAAAJ:zYLM7Y9cAGgC:
