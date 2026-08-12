@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-05'
+  last_updated: '2026-08-12'
 papers:
   O2UOvrkAAAAJ:-f6ydRqryjwC:
     citations: 1
@@ -10,7 +10,7 @@ papers:
     title: Assignment of bug reports to software developers using a multi-population evolutionary method
     year: '2022'
   O2UOvrkAAAAJ:2osOgNQ5qMEC:
-    citations: 20
+    citations: 21
     title: 'Assessing code authorship: The case of the Linux kernel'
     year: '2017'
   O2UOvrkAAAAJ:3fE2CSJIrl8C:
@@ -18,7 +18,7 @@ papers:
     title: 'End-to-End Software Construction using Chat-GPT: An Experience Report'
     year: '2023'
   O2UOvrkAAAAJ:4DMP91E08xMC:
-    citations: 2
+    citations: 3
     title: An Evaluation of the Impact of Code Generation Tools on Software Development
     year: '2025'
   O2UOvrkAAAAJ:4JMBOYKVnBMC:
@@ -46,7 +46,7 @@ papers:
     title: Automatic detection of usability smells in web applications running in mobile devices
     year: '2020'
   O2UOvrkAAAAJ:9yKSN-GCB0IC:
-    citations: 216
+    citations: 219
     title: A novel approach for estimating truck factors
     year: '2016'
   O2UOvrkAAAAJ:IWHjjKOFINEC:
@@ -170,7 +170,7 @@ papers:
     title: 'Assessing the Role of GPT-4o in Software Engineering Learning: An Experience Report'
     year: '2025'
   O2UOvrkAAAAJ:qjMakFHDy7sC:
-    citations: 173
+    citations: 174
     title: 'On the abandonment and survival of open source projects: An empirical investigation'
     year: '2019'
   O2UOvrkAAAAJ:qxL8FJ1GzNcC:
