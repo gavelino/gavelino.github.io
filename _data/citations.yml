@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-17'
+  last_updated: '2026-08-19'
 papers:
   O2UOvrkAAAAJ:-f6ydRqryjwC:
     citations: 1
@@ -46,7 +46,7 @@ papers:
     title: Automatic detection of usability smells in web applications running in mobile devices
     year: '2020'
   O2UOvrkAAAAJ:9yKSN-GCB0IC:
-    citations: 220
+    citations: 221
     title: A novel approach for estimating truck factors
     year: '2016'
   O2UOvrkAAAAJ:IWHjjKOFINEC:
@@ -166,11 +166,11 @@ papers:
     title: "Test Co\u2010Evolution in Software Projects: A Large\u2010Scale Empirical Study"
     year: '2025'
   O2UOvrkAAAAJ:qUcmZB5y_30C:
-    citations: 0
+    citations: 1
     title: 'Assessing the Role of GPT-4o in Software Engineering Learning: An Experience Report'
     year: '2025'
   O2UOvrkAAAAJ:qjMakFHDy7sC:
-    citations: 174
+    citations: 175
     title: 'On the abandonment and survival of open source projects: An empirical investigation'
     year: '2019'
   O2UOvrkAAAAJ:qxL8FJ1GzNcC:
