@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-19'
+  last_updated: '2026-08-26'
 papers:
   O2UOvrkAAAAJ:-f6ydRqryjwC:
     citations: 1
@@ -26,7 +26,7 @@ papers:
     title: 'Scalper major: A computational solution for automated trading in high volatility environments'
     year: '2026'
   O2UOvrkAAAAJ:4TOpqqG69KYC:
-    citations: 2
+    citations: 3
     title: Evaluation of low code and no code platforms as a strategy to increase productivity in software development
     year: '2024'
   O2UOvrkAAAAJ:5nxA0vEk-isC:
@@ -46,7 +46,7 @@ papers:
     title: Automatic detection of usability smells in web applications running in mobile devices
     year: '2020'
   O2UOvrkAAAAJ:9yKSN-GCB0IC:
-    citations: 221
+    citations: 222
     title: A novel approach for estimating truck factors
     year: '2016'
   O2UOvrkAAAAJ:IWHjjKOFINEC:
